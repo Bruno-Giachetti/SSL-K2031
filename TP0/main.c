@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <ctype.h>
 #include "scanner.h"
-#include "scanner.c"
+
 
 
 void main()
